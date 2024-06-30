@@ -1,3 +1,13 @@
+/* 
+        Guess the letters to form the word but you have limited lives !!! 
+	Created by Varun Kashyap
+
+        Used C++ (arrays, functions, loops)
+	Thanks for playing :)
+*/
+
+
+
 #include <iostream>
 #include <cstdlib>
 #include<ctime>
